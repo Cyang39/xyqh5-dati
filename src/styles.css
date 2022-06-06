@@ -1,0 +1,9 @@
+.ans {
+  color: #8c2ce6;
+}
+#question-bar {
+  padding: 1em;
+  font-size: 1em;
+  width: 50em;
+  max-width: 100vw;
+}

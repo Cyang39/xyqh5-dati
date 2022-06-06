@@ -1,0 +1,16 @@
+{
+  "name": "xyqh5-dati",
+  "source": "src/index.html",
+  "description": "梦幻西游网页版答题工具",
+  "author": "Cyang39",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  },
+  "dependencies": {
+    "pinyin-pro": "^3.10.0"
+  }
+}
